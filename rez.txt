@@ -1,0 +1,5 @@
+ world
+This program finds words  have matching first and last 
+and deletes  word from the 
+Example first  second table third  fourth laptop
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffab
